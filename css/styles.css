@@ -4,6 +4,53 @@ html {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: blue;
+  color: #17202A;
+}
+h1{
+  text-align: center;
+  color: #17202A;
+  font-family: fantasy;
+  font-weight: bold;
+}
+.headings{
+font-family: cursive;
+color: #17202A;
+text-align: center;
+}
+.bodys {
 
+  color: #17202A;
+  font-family: fantasy;
+  display: inline;
+  width: 78%;
+  float: left;
+  padding-top: 2%;
+  line-height: 1.9em;
+  padding-left: 1.5%;
+}
+
+.sidebars{
+    text-align: right;
+    float: right;
+  background-color: inherit;
+  line-height: 1.9em;
+    color: #17202A;
+    width: 18%;
+    padding-top: 4%;
+    padding right: 1.5%;
+    font-family: fantasy;
+  }
+}
+.social{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #B3B6B7;
+    float: left;
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
 }
